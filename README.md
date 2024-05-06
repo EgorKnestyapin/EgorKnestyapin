@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EgorKnestyapin?tab=repositories](https://github.com/EgorKnestyapin?tab=repositories)
 
-- 📫 How to reach me **knespp@gmail.com**
+- 📫 How to reach me **knespp@gmail.com** telegram: @knespp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
